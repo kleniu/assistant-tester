@@ -1,0 +1,26 @@
+{
+  "name": "assistant-tester",
+  "version": "1.0.0",
+  "description": "Watson Assistant connectivity tester app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kleniu/assistant-tester.git"
+  },
+  "keywords": [
+    "Watson",
+    "Assistant"
+  ],
+  "author": "Robert Kleniewski",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kleniu/assistant-tester/issues"
+  },
+  "homepage": "https://github.com/kleniu/assistant-tester#readme",
+  "dependencies": {
+    "ibm-watson": "^6.1.1"
+  }
+}
